@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584012513 source:d:\c++\corpseparty_char_replace\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1584013052 source:d:\c++\corpseparty_char_replace\rc.rc
+

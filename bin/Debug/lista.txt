@@ -1,0 +1,2 @@
+SCRIPT_MAP22.DAT.lzss.txt
+SCRIPT_MAP30.DAT.lzss.txt
